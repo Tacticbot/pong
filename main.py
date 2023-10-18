@@ -18,9 +18,6 @@ ball = Ball()
 
 
 
-
-
-
 screen.listen()
 screen.onkey(r_paddle.go_up, "Up")
 screen.onkey(r_paddle.go_down, "Down")
@@ -52,7 +49,6 @@ while game_on:
         score.count_right()
         ball.reset_position()
         
-
 
 
 
