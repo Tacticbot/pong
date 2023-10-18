@@ -46,7 +46,7 @@ while game_on:
     if ball.xcor() > 400:
         score.count_left()
         ball.reset_position()
-        ball.reset_speed()
+        
 
     if ball.xcor() < -400:
         score.count_right()
