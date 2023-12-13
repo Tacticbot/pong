@@ -31,7 +31,7 @@ The Pong Game is a recreation of the classic Pong arcade game. It features a sim
 
    Execute the program:
 
-   ```
+   ```bash
    python pong.py
    ```
    
