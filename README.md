@@ -24,14 +24,14 @@ The Pong Game is a recreation of the classic Pong arcade game. It features a sim
    Clone the repository:
 
    ```bash
-   git clone https://github.com/<username>/pong-game.git
-   cd pong-game
+   git clone https://github.com/Tacticbot/pong.git
+   cd pong
    ```
 2. **Run the game**:
 
    Execute the program:
 
    ```bash
-   python pong.py
+   python main.py
    ```
    
